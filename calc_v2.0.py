@@ -62,7 +62,7 @@ class Calculator:
     def __init__(self):
         self.window = tk.Tk()
         self.window.title('Eng Calculator 2.0')
-        self.window.iconbitmap(r'..\myicon.ico')
+        # self.window.iconbitmap(r'..\myicon.ico')
         self.window.resizable(False, False)
 
         # create frame for display widget:

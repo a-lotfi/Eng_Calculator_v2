@@ -252,7 +252,7 @@ def click_save(lb_hist, *args):
         ent_fname.config(fg='black')
 
     win2 = tk.Tk()
-    win2.iconbitmap(r"../myicon.ico")
+    # win2.iconbitmap(r"../myicon.ico")
     win2.title('Save History')
     win2.geometry('220x100')
 
