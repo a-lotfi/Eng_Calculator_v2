@@ -9,39 +9,14 @@ The Engineering Calculator 2.0 is an engineering calculator program written usin
 
 </div>
 
-<br><!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>
-        .image-container {
-            display: flex;
-            align-items: center; /* Align text at the baseline */
-            margin: 5px;
-        }
-        .image-container div {
-            text-align: center;
-        }
-    </style>
-</head>
-<body>
+<p align="center">
+  <img src="https://i.postimg.cc/R0YDJktJ/Screenshot-2024-02-20-015913.png" alt="Calculator Preview" width="30%">
+</p>
+<p align="center">
+  <img src="https://i.postimg.cc/26BXQ0dc/Screenshot-2024-02-20-020037.png" alt="Calculator Preview" width="30%">
+</p>
 
-<div class="image-container">
-    <div>
-        <img src="https://i.postimg.cc/R0YDJktJ/Screenshot-2024-02-20-015913.png" alt="Image 1" style="width: 70%; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);">
-    </div>
-    <div>
-        <img src="https://i.postimg.cc/26BXQ0dc/Screenshot-2024-02-20-020037.png" alt="Image 2" style="width: 70%; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);">
-    </div>
-</div><br><br>
-
-<!-- <p align="center">
-  <img src="https://your-image-url.com/calculator-preview.png" alt="Calculator Preview" width="70%">
-</p> -->
-
-
-
+<br><br>
 
 ## Features
 ---
